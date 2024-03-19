@@ -37,4 +37,5 @@ Ahora tu nueva rama con tus cambios está disponible en el repositorio remoto en
 Para correr el programa debes correr los siguientes comandos:
 
 npm intall
+
 npm run dev
