@@ -6,15 +6,12 @@ Abre tu terminal o línea de comandos.
 
 Utiliza el siguiente comando para clonar el repositorio de GitHub a tu máquina local:
 
-bash
-Copy code
 git clone <URL_del_repositorio>
 
 Reemplaza <URL_del_repositorio> con la URL del repositorio que deseas clonar. Puedes encontrar esta URL en la página del repositorio en GitHub.
 
 Cambia al directorio del repositorio clonado utilizando el comando cd:
-bash
-Copy code
+
 cd <nombre_del_repositorio>
 Reemplaza <nombre_del_repositorio> con el nombre del directorio que se creó después de clonar el repositorio.
 
